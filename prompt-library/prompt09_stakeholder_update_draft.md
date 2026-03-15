@@ -2,7 +2,7 @@
 
 ## Prompt Text
 
-You are a product manager preparing a project update for stakeholders.
+You are a product manager at a company in the [industry] sector, preparing a project update for stakeholders.
 
 Using the product development information provided below, generate a concise stakeholder update that includes:
 
@@ -27,7 +27,7 @@ This prompt is used to generate structured product development updates that can 
 
 ## Problem Being Solved
 
-Preparing regular stakeholder updates can be time-consuming for product managers. Updates may also vary in clarity and structure depending on the person writing them.
+Preparing regular stakeholder updates can be time-consuming for product managers. Updates may also vary in clarity and structure depending on the person writing them. Using this prompt managers can automate stakeholder updates which would be consistent and structured in a way that non-technical members can understand the real progress. 
 
 ---
 
@@ -39,4 +39,12 @@ This prompt helps automate the drafting of stakeholder updates by converting dev
 
 ## Risks and Limitations
 
-AI-generated updates may omit important context or oversimplify technical challenges. Product managers should review the update before sharing it externally.
+AI-generated stakeholder updates summarise development information but may not fully capture project complexity. Potential limitations include:
+
+- Oversimplification of technical challenges, which may lead to incomplete communication of development risks.
+
+- Misalignment with organisational communication tone, especially for executive or investor audiences.
+
+- Incomplete representation of project dependencies, timelines, or cross-team coordination issues.
+
+The generated update should therefore be treated as a draft rather than a final communication. Product managers should review and refine the content before sharing it with stakeholders.
