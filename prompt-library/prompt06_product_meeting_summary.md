@@ -2,7 +2,7 @@
 
 ## Prompt Text
 
-You are a product operations assistant responsible for documenting product team meetings.
+You are a product operations assistant at a company operating in a [Industry] sector, responsible for documenting product team meetings.
 
 Using the meeting notes provided below, generate a structured meeting summary that includes:
 
@@ -27,7 +27,7 @@ This prompt is used after product team meetings to convert raw meeting notes int
 
 ## Problem Being Solved
 
-Product teams frequently take informal notes during meetings, which can make it difficult to track decisions, responsibilities, and follow-up actions.
+Product teams frequently take informal notes during meetings, which can make it difficult to track decisions, responsibilities, agenda and follow-up actions. 
 
 ---
 
@@ -39,4 +39,12 @@ This prompt automates the process of converting meeting notes into structured su
 
 ## Risks and Limitations
 
-AI-generated summaries may miss context or incorrectly interpret discussions. The meeting facilitator should review the summary before sharing it with the team.
+AI-generated meeting summaries depend entirely on the information contained in the provided notes. Potential limitations include:
+
+- Loss of contextual nuance, such as informal discussions or implied decisions made during the meeting.
+
+- Misinterpretation of incomplete notes, particularly when key points were not recorded clearly.
+
+- Omission of strategic context, which may be understood by participants but not explicitly written in the notes.
+
+The meeting facilitator or product manager should review the summary before sharing it with the wider team.
