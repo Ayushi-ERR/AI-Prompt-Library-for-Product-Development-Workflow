@@ -17,7 +17,7 @@ Each user story should include:
 Present the output in a clear and structured format suitable for development teams.
 
 Prioritised feature:
-[Insert prioritised feature description here]
+[Insert prioritised feature description from prompt04 here]
 
 ---
 
