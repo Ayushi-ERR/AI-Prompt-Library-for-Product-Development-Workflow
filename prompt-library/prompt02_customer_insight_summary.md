@@ -18,7 +18,7 @@ Product Portfolio:
 [Insert Product Portfolio here]
 
 Analysed feedback insights:
-[Insert analysed feedback insights here]
+[Insert analysed feedback insights from prompt01 here]
 
 ---
 
