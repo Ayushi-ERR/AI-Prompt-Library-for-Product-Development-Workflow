@@ -2,9 +2,9 @@
 
 ## Prompt Text
 
-You are a product strategy analyst supporting a product development team.
+You are a product strategy analyst at a company in the [industry] sector, supporting a product development team.
 
-Using the analysed customer feedback insights provided below, create a structured summary of it that highlights:
+Using the analysed customer feedback insights provided below and product portfolio, create a structured summary of it that highlights:
 
 1. The most important customer problems
 2. Key patterns or recurring issues
@@ -13,6 +13,9 @@ Using the analysed customer feedback insights provided below, create a structure
 5. Strategic insights that product managers should consider
 
 Present the insights in a structured summary that product managers can use to guide product improvement discussions.
+
+Product Portfolio:
+[Insert Product Portfolio here]
 
 Analysed feedback insights:
 [Insert analysed feedback insights here]
@@ -39,4 +42,12 @@ This prompt enables product teams to quickly transform analysed feedback into ac
 
 ## Risks and Limitations
 
-AI-generated insights may overlook contextual factors such as business constraints, market strategy, or technical feasibility. Human validation is required before translating insights into product decisions.
+AI-generated insight summaries depend on the accuracy and completeness of the analysed feedback provided as input. Potential limitations include:
+
+- Bias introduced by incomplete or unbalanced feedback data, which may lead to misleading conclusions about user needs.
+
+- Oversimplification of customer behaviour patterns, particularly when complex user experiences are condensed into high-level insights.
+
+- Loss of contextual detail, where subtle but important customer concerns may be overlooked during summarisation.
+
+The resulting insights should therefore be treated as a conceptual overview to support discussion. Product managers should review the insights alongside additional research and customer data before using them to guide product decisions.
