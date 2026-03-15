@@ -2,7 +2,7 @@
 
 ## Prompt Text
 
-You are a product analyst supporting a product development team.
+You are a product analyst at a comapny in [industry] sector, supporting a product development team.
 
 Analyse the customer feedback provided below and identify the following:
 
@@ -39,4 +39,12 @@ This prompt enables automated analysis of customer feedback by extracting key in
 
 ## Risks and Limitations
 
-AI may misinterpret context, sarcasm, or customer sentiment. Human review is still necessary before making any strategic product decisions based on the analysis by this prompt.
+AI-generated feedback analysis relies on the clarity and completeness of the customer comments provided. Potential limitations include:
+
+- Misinterpretation of sentiment or tone, particularly when feedback includes sarcasm, informal language, or ambiguous phrasing.
+
+- Overgeneralisation of customer concerns, where AI may group unrelated feedback into the same theme.
+
+- Incomplete context, since the system does not have access to broader customer behaviour data or historical feedback trends.
+
+The generated analysis should therefore be treated as an initial insight summary. Product teams should review the findings and validate them against additional customer data before making product decisions.
