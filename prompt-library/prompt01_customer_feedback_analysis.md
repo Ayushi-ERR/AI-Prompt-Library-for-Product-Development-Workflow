@@ -15,7 +15,7 @@ Analyse the customer feedback provided below and identify the following:
 Present the output using clear headings and concise business language.
 
 Customer feedback:
-[ ----Insert Feedback here----]
+[Insert Feedback here]
 
 ---
 
@@ -27,7 +27,7 @@ This prompt is designed to support product teams in analysing customer feedback 
 
 ## Problem Being Solved
 
-Product development teams often receive large amounts of unstructured customer feedback. Manually analysing and summarising this feedback to find insights can be time-consuming and inconsistent.
+Product development teams often receive large amounts of unstructured customer feedback. Manually analysing and summarising this feedback to find insights can be time-consuming and inconsistent. Product team can use this prompt to segregate the key points in the customer feedback instead of going through it manually.
 
 ---
 
