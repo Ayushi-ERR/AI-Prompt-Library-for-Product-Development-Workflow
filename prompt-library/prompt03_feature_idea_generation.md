@@ -17,7 +17,7 @@ For each idea, include:
 Present the ideas in a structured list that product teams can review during feature brainstorming or product planning sessions.
 
 Customer insights:
-[Insert customer insights here]
+[Insert customer insights from prompt02 here]
 
 ---
 
