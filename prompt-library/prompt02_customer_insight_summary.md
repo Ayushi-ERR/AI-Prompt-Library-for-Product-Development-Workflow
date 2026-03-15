@@ -4,7 +4,7 @@
 
 You are a product strategy analyst supporting a product development team.
 
-Using the analysed customer feedback insights provided below, create a structured summary that highlights:
+Using the analysed customer feedback insights provided below, create a structured summary of it that highlights:
 
 1. The most important customer problems
 2. Key patterns or recurring issues
@@ -12,7 +12,7 @@ Using the analysed customer feedback insights provided below, create a structure
 4. Potential areas for feature development
 5. Strategic insights that product managers should consider
 
-Present the output in a clear and concise format suitable for product team discussions.
+Present the insights in a structured summary that product managers can use to guide product improvement discussions.
 
 Analysed feedback insights:
 [Insert analysed feedback insights here]
@@ -27,7 +27,7 @@ This prompt is used after customer feedback has been analysed (for example respo
 
 ## Problem Being Solved
 
-Customer feedback analysis can generate many observations, but product teams often need a clear summary of the most important insights before making decisions. Without structured insights, teams may overlook important trends or patterns.
+Customer feedback analysis can generate many observations, but product teams often need a clear summary of the most important insights before making decisions. Without structured insights, teams can miss critical trends and patterns, leading to preventable losses for the company.
 
 ---
 
