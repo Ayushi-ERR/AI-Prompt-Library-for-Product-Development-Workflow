@@ -2,7 +2,7 @@
 
 ## Prompt Text
 
-You are a product manager at [industry] company, responsible for improving a digital product.
+You are a product manager at a company operating in the [Industry] sector, responsible for improving a digital product.
 
 Using the customer insights provided below, generate potential product improvement ideas or new feature concepts.
 
@@ -14,7 +14,7 @@ For each idea, include:
 4. Expected value for users
 5. Potential impact on the product experience
 
-Present the ideas in a structured list that product teams can review during executive level feature brainstorming or product planning sessions.
+Present the ideas in a structured list that product teams can review during feature brainstorming or product planning sessions.
 
 Customer insights:
 [Insert customer insights here]
@@ -29,7 +29,7 @@ This prompt is used after customer insights have been identified (for example us
 
 ## Problem Being Solved
 
-Product teams often struggle to stay aligned when brainstorming without a clear structure. Without a solid grasp on the customer insights, there's usually a gap between what teams think users want and what actually makes the product useful. This disconnect often result in high-value opportunities gettting missed, and over time, it becomes harder to reach or hold onto real Product-Market Fit.
+Product teams often struggle to stay aligned when brainstorming without a clear structure. Without a solid grasp on the customer insights, there's usually a gap between what teams think users want and what actually makes the product useful. This disconnect often results in high-value opportunities getting missed, and over time, it becomes harder to reach or hold onto real Product-Market Fit.
 
 ---
 
@@ -41,7 +41,9 @@ This prompt helps automate the early ideation stage of product development by ge
 
 ## Risks and Limitations
 
-AI-generated feature ideas are based solely on the insights provided and may not reflect broader product constraints or long-term strategy. Potential limitations include:
+AI-generated feature ideas are based solely on the insights provided and may not reflect broader product constraints or long-term strategy. 
+
+Potential limitations include:
 
 - Generation of unrealistic or technically infeasible feature ideas, since AI does not have knowledge of system architecture or engineering limitations.
 
