@@ -2,7 +2,7 @@
 
 ## Prompt Text
 
-You are a quality assurance assistant responsible for documenting software bugs.
+You are a quality assurance assistant at a company operating in a [industry] sector, iresponsible for documenting software bugs.
 
 Using the bug description provided below, generate a structured bug report that includes:
 
@@ -28,7 +28,7 @@ This prompt is used during product development or testing to convert informal bu
 
 ## Problem Being Solved
 
-Bug descriptions reported by testers or users are often incomplete or inconsistent. Developers may spend additional time clarifying the issue before they can begin fixing it.
+Bug descriptions reported by testers or users are often incomplete or inconsistent. Developers may spend additional time clarifying the issue before they can begin fixing it. This prompt also clarifies the steps to reproduce the issue which helps the developers to understand exactly where the bug is seated.
 
 ---
 
@@ -40,4 +40,12 @@ This prompt helps standardise bug reporting by converting raw descriptions into 
 
 ## Risks and Limitations
 
-AI may not fully understand the technical context of a bug or the system architecture. The generated report should be reviewed before being submitted to development teams.
+AI-generated bug reports rely on the clarity and completeness of the original bug description. Potential limitations include:
+
+- Incorrect reproduction steps if the original report lacks sufficient technical detail.
+
+- Misinterpretation of system behaviour, particularly in complex software environments.
+
+- Inaccurate severity assessment, since AI does not have full knowledge of system impact or dependencies.
+
+The generated report should therefore be treated as a structured draft intended to improve documentation clarity. Quality assurance engineers or developers should verify the details before submitting the issue to the development tracking system.
