@@ -24,7 +24,7 @@ For each feature idea, provide:
 Present the results in a structured format suitable for product planning discussions.
 
 Feature ideas:
-[Insert feature ideas here]
+[Insert feature ideas from prompt03 here]
 
 ---
 
