@@ -32,17 +32,5 @@ Customer insights:
 
 ---
 
-## Version 3 — Final Prompt (Current Library Version)
 
-Role-based prompt for a product manager with structured feature evaluation including:
 
-- Feature name
-- Description
-- Customer problem solved
-- User value
-- Product impact
-
-### Key Improvements
-- Added role prompting for better domain context.
-- Expanded evaluation fields to support product planning discussions.
-- Improved alignment between insights and feature ideation.
