@@ -2,7 +2,7 @@
 
 ## Prompt Text
 
-You are a quality assurance assistant at a company operating in a [industry] sector, iresponsible for documenting software bugs.
+You are a quality assurance assistant at a company operating in a [industry] sector, responsible for documenting software bugs.
 
 Using the bug description provided below, generate a structured bug report that includes:
 
